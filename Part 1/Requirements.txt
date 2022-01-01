@@ -1,0 +1,8 @@
+Steps to Execute the code:
+1. Run the file main.py
+2. It will produce the output Results.csv in the same directory
+
+Note:
+1. The system uses Python 2.7
+2. The system should have pandas library
+3. The CGMData.csv and InsulinData.csv should be in the same directory as the main.py
